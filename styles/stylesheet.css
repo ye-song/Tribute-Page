@@ -31,6 +31,7 @@ h1 {
 h2 {
   font-size: 3.25rem;
 }
+
 h3{
   font-size: 2rem;
   max-width: 600px;
@@ -63,14 +64,15 @@ img {
   max-width: 23%;
   display: block;
   height: auto;
-  margin: 0 auto;
+  margin: auto;
   border-radius: 50%;
 }
 
 #img-div {
   background: #c28f5d;
-  padding: 10px;
-  margin: 0;
+  padding: 15px;
+  margin: auto;
+  height: 46rem;
 }
 
 #img-caption {
@@ -82,11 +84,6 @@ img {
     font-size: 1.4rem;
   }
 }
-
-/*#headline {
-  margin: 50px 0;
-  text-align: center;
-}*/
 
 ul {
   max-width: 550px;
